@@ -1,0 +1,6 @@
+#ifndef ARBOLDINAMICO_H_INCLUDED
+#define ARBOLDINAMICO_H_INCLUDED
+
+typedef NodoA* Arbol;
+
+#endif // ARBOLDINAMICO_H_INCLUDED
